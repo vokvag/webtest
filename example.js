@@ -1,7 +1,7 @@
     var express = require('express');  
     var app = express();  
     app.get('/', function (req, res) {  
-       res.send('Hi! Amber! you are such a goddess.');  
+       res.send('Good night! My friend~!');  
     })  
     var server = app.listen(8000, function () {  
     var host = server.address().address  
